@@ -2,7 +2,7 @@
   "functions": {
     "api/chat": {
       "runtime": "nodejs18.x",
-      "memory": 1024,
+      "memory": 2048,
       "timeout": 120
     }
   }
