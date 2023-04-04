@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/chat": {
+      "runtime": "nodejs18.x",
+      "memory": 1024,
+      "timeout": 120
+    }
+  }
+}
